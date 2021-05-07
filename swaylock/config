@@ -1,0 +1,11 @@
+font=monospace
+font-size=15
+color=000000
+inside-color=282828
+image=~/Pictures/Wallpapers/arch-hero.jpg
+fade-in=1
+grace=2
+clock
+timestr=%I:%M:%S %p
+datestr=%e %b %Y
+daemonize
