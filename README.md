@@ -14,6 +14,6 @@ My Sway dotfiles on Arch Linux
 - Application Launcher => wofi
 - [autotiling](https://github.com/nwg-piotr/autotiling)
 - swayidle
-- swybg
+- swaybg
 - network-manager-applet
 - blueman
