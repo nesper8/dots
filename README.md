@@ -17,3 +17,4 @@ My Sway dotfiles on Arch Linux
 - swaybg
 - network-manager-applet
 - blueman
+- pulseaudio (god i hate waybar for not supporting pipewire)
